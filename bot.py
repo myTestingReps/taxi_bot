@@ -42,6 +42,11 @@ def main():
     # Запуск бота
     app.run_polling()
 
+#comment to test commit
+
+
+
+#comment to test commit 2
 
 if __name__ == '__main__':
     main()
